@@ -2,10 +2,9 @@
 <h3 align="center">I'm a Full-Stack Developer based on Spain focused on the ARMA Series Engine.</h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=miguellpg&label=Profile%20views&color=1b6acb&style=flat-square" alt="miguellpg" /></p>
 
-<h3 align="left">Summary:</h3>
 <img align="right" src="https://discord-readme-badge.vercel.app/api?id=1041709834246037525">
 
-<h3 align="left">Let's build something together:</h3>
+<h3 align="left">Let's build something together!</h3>
 <p align="left">
 <a>Contact me on discord! My name is: vitro.</a>
 
