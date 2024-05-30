@@ -3,12 +3,13 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=miguellpg&label=Profile%20views&color=1b6acb&style=flat-square" alt="miguellpg" /></p>
 
 <img align="right" src="https://discord-readme-badge.vercel.app/api?id=1041709834246037525">
+<br >
 
 <h3 align="left">Let's build something together!</h3>
 <p align="left">
 <a>Contact me on discord! My name is: vitro.</a>
 <br/>
-
+<br/><br/><br/>
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://github.com/miguellpg" target="blank"><img src="https://skillicons.dev/icons?i=ableton,cloudflare,css,discord,discordjs,github,html,js,nodejs,npm,vscode,windows&perline=18" width="100%"></a>
 
