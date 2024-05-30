@@ -8,13 +8,14 @@
 <h3 align="left">Let's build something together!</h3>
 <p align="left">
 <a>Contact me on discord! My name is: vitro.</a>
-<br/>
-<br/><br/><br/>
+  
+<br/><br/><br/><br/>
+
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://github.com/miguellpg" target="blank"><img src="https://skillicons.dev/icons?i=ableton,cloudflare,css,discord,discordjs,github,html,js,nodejs,npm,vscode,windows&perline=18" width="100%"></a>
 
-
 <h3 align="left">GitHub Stats:</h3>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=miguellpg&show_icons=true&count_private=true&title_color=1b6acb&text_color=9f9f9f&icon_color=1b6acb&bg_color=222222" height="130">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguellpg&count_private=true&layout=compact&title_color=1b6acb&text_color=9f9f9f&icon_color=1b6acb&bg_color=222222" height="130">
