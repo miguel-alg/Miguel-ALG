@@ -7,6 +7,7 @@
 <h3 align="left">Let's build something together!</h3>
 <p align="left">
 <a>Contact me on discord! My name is: vitro.</a>
+<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://github.com/miguellpg" target="blank"><img src="https://skillicons.dev/icons?i=ableton,cloudflare,css,discord,discordjs,github,html,js,nodejs,npm,vscode,windows&perline=18" width="100%"></a>
